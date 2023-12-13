@@ -29,12 +29,29 @@
 
 ## My Professional Certificates:
 
+### Modern AppDev
 ![Modern AppDev](./Certificates/9.%20Modern%20AppDev.png?raw=true "Modern AppDev")
+
+### OS Security & Coding
 ![OS Security & Coding](./Certificates/8.%20OS%20Security%20&%20Coding.png?raw=true "OS Security & Coding")
+
+### Network Security
 ![Network Security](./Certificates/7.%20Network%20Security.png?raw=true "Network Security")
+
+### Git
 ![Git](./Certificates/6.%20Git.png?raw=true "Git")
+
+### InfoSec Base
 ![InfoSec Base](./Certificates/5.%20InfoSec%20Base.png?raw=true "InfoSec Base")
+
+### Information Security at NVIDIA certificate
 ![Information Security at NVIDIA certificate](./Certificates/4.%20Information%20Security%20at%20NVIDIA%20certificate.png?raw=true "Information Security at NVIDIA certificate")
+
+### Cybersecurity and Data Privacy at NVIDIA certficate"
 ![Cybersecurity and Data Privacy at NVIDIA certficate](./Certificates/3.%20Cybersecurity%20and%20Data%20Privacy%20at%20NVIDIA%20certficate.png?raw=true "Cybersecurity and Data Privacy at NVIDIA certficate")
+
+### UDEMY Django scraping
 ![UDEMY Django scraping](./Certificates/2.%20UDEMY%20Django%20scraping.jpg?raw=true "UDEMY Django scraping")
+
+### UDEMY Django
 ![UDEMY Django](./Certificates/1.%20UDEMY%20Django.jpg?raw=true "UDEMY Django")
