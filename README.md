@@ -30,10 +30,10 @@
 ## My Professional Certificates:
 
 ### Attack & Defence
-![Attack & Defence](./Certificates/11.%20Attack%20and%20Defence?raw=true "Attack & Defence")
+![Attack & Defence](./Certificates/11.%20Attack%20and%20Defence.png?raw=true "Attack & Defence")
 
 ### Web Applications
-![Web Applications](./Certificates/10.%Web-Applications.png?raw=true "Web Applications")
+![Web Applications](./Certificates/10.%20Web-Applications.png?raw=true "Web Applications")
 
 ### Modern AppDev
 ![Modern AppDev](./Certificates/9.%20Modern%20AppDev.png?raw=true "Modern AppDev")
