@@ -29,6 +29,12 @@
 
 ## My Professional Certificates:
 
+### Responding to information security incidents and proactive threat detection
+![Responding to information security incidents and proactive threat detection](./Certificates/13.%20Responding%20to%20information%20security%20incidents%20and%20proactive%20threat%20detection.png?raw=true "13. Responding to information security incidents and proactive threat detection")
+
+### Modern Cyber Attacks and prevention methods
+![Modern Cyber Attacks and prevention methods](./Certificates/12.%20Modern%20Cyber%20Attacks%20and%20prevention%20methods.png?raw=true "Modern Cyber Attacks and prevention methods")
+
 ### Attack & Defence
 ![Attack & Defence](./Certificates/11.%20Attack%20and%20Defence.png?raw=true "Attack & Defence")
 
