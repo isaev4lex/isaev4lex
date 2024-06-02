@@ -9,10 +9,11 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 
 ## Work Experience
 
-**SRF** (Israel)
-**Security Engineer**  
+**SRF** (Israel)  
+**Developer/Security auditor**  
 *2024-present*  
-- Worked with Docker containers and NAT routing.
+- Worked with Docker containers
+- Builded NAT routing system on servers.
 - Developed Python-Django projects.
 - Automated server-side scripts.
 - Conducted pentesting (blackbox).
