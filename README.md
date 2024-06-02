@@ -9,7 +9,7 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 
 ## Work Experience
 
-**SRF** (Israel)  
+**Digy-Safe** (Israel)  
 **Developer, Security auditor**  
 *2024-present*  
 - Worked with Docker containers
