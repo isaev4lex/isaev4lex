@@ -1,7 +1,7 @@
 # Alex Isaev
 
 **Engineer Sec-Developer**  
-Israel | [LinkedIn](#) | (055)2718572 | isaev4lex@proton.me
+Israel | [LinkedIn](#) | isaev4lex@proton.me
 
 ## Skills
 Python | Django Framework | C/C++ | BASH | Java | HTML & CSS & JavaScript | Git | Linux | SQL | CD/CI |  
