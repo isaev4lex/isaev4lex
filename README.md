@@ -32,11 +32,11 @@
   <tr>
     <td style="text-align: center;">
       <img src="./Certificates/13.%20Responding%20to%20information%20security%20incidents%20and%20proactive%20threat%20detection.png" alt="Responding to information security incidents and proactive threat detection" style="width: 200px;">
-      <p>Responding to information security incidents<br> and proactive threat detection</p>
+      <p>Responding to information<br>security incidents<br>and proactive threat<br>detection</p>
     </td>
     <td style="text-align: center;">
       <img src="./Certificates/12.%20Modern%20Cyber%20Attacks%20and%20prevention%20methods.png" alt="Modern Cyber Attacks and prevention methods" style="width: 200px;">
-      <p>Modern Cyber Attacks and prevention methods</p>
+      <p>Modern Cyber Attacks<br>and prevention<br>methods</p>
     </td>
     <td style="text-align: center;">
       <img src="./Certificates/11.%20Attack%20and%20Defence.png" alt="Attack & Defence" style="width: 200px;">
@@ -74,15 +74,15 @@
   <tr>
     <td style="text-align: center;">
       <img src="./Certificates/4.%20Information%20Security%20at%20NVIDIA%20certificate.png" alt="Information Security at NVIDIA certificate" style="width: 200px;">
-      <p>Information Security at NVIDIA certificate</p>
+      <p>Information Security<br>at NVIDIA<br>certificate</p>
     </td>
     <td style="text-align: center;">
       <img src="./Certificates/3.%20Cybersecurity%20and%20Data%20Privacy%20at%20NVIDIA%20certficate.png" alt="Cybersecurity and Data Privacy at NVIDIA certficate" style="width: 200px;">
-      <p>Cybersecurity and Data Privacy at NVIDIA certficate</p>
+      <p>Cybersecurity and Data<br>Privacy at NVIDIA<br>certificate</p>
     </td>
     <td style="text-align: center;">
       <img src="./Certificates/2.%20UDEMY%20Django%20scraping.jpg" alt="UDEMY Django scraping" style="width: 200px;">
-      <p>UDEMY Django scraping</p>
+      <p>UDEMY Django<br>scraping</p>
     </td>
   </tr>
   <tr>
