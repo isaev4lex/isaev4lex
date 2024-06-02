@@ -19,7 +19,7 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 
 **Yandex** (Remote)  
 **Student (Cybersecurity)**  
-*2023-present*  
+*2023-2024*  
 - Learned and passed exam about government regulation for cybersecurity and cyber attacks.
 - Used cryptography to understand how it works and created certificates for sites, for HTTPs protocol.
 - Modeled threat documents for companies after searching for vulnerabilities.
