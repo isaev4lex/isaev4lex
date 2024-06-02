@@ -32,7 +32,7 @@
   <tr>
     <td style="text-align: center;">
       <img src="./Certificates/13.%20Responding%20to%20information%20security%20incidents%20and%20proactive%20threat%20detection.png" alt="Responding to information security incidents and proactive threat detection" style="width: 200px;">
-      <p>Responding to information security incidents and proactive threat detection</p>
+      <p>Responding to information security incidents<br> and proactive threat detection</p>
     </td>
     <td style="text-align: center;">
       <img src="./Certificates/12.%20Modern%20Cyber%20Attacks%20and%20prevention%20methods.png" alt="Modern Cyber Attacks and prevention methods" style="width: 200px;">
