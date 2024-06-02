@@ -1,30 +1,63 @@
-# 🧑‍💻  About me
- - 👋 Hi, my name is Alex, I'm Engineer Sec-Developer from Israel 💻.
- - 📌 Looking for a new projects, new opportunities and interesting companies
- - ⚙️ My multifaceted journey, extensive skill set, and unwavering commitment to 
-    excellence make me and ideal candidate poised to make a substantial contribution 
-    to your esteemed organization. I embrace each new challenge as an opportunity 
-    for growth and success. Additionally, I am open to internship opportunities, 
-    as I am deeply intrigued by various facets of the IT industry. Feel free to 
-    reach out, as I am always eager to explore new horizons and engage in 
-    meaningful collaborations.
+# Alex Isaev
 
-## 🖥 My skills:
- - Python
- - Django Framework
- - C/C++
- - BASH
- - Java
- - HTML&CSS&JavaScript
- - Git
- - Linux, VDS/VPS
- - IPv4/IPv6, TCP/UDP, BGP, DNS
- - SQL
- - CD/CI
+**Engineer Sec-Developer**  
+Israel | [LinkedIn](#) | (055)2718572 | isaev4lex@proton.me
 
-## How to contact me?
- - 📧 E-mail: *isaev4lex@proton.me*
- - 📞 Phone: *+972552718572*
+## Skills
+Python | Django Framework | C/C++ | BASH | Java | HTML & CSS & JavaScript | Git | Linux | SQL | CD/CI |  
+Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | Veracrypt | HashCat
+
+## Work Experience
+
+**SRF**  
+**Security Engineer**  
+*2024-present*  
+- Worked with Docker containers and NAT routing.
+- Developed Python-Django projects.
+- Automated server-side scripts.
+- Conducted pentesting (blackbox).
+
+**Yandex** (Remote)  
+**Student (Cybersecurity)**  
+*2023-present*  
+- Learned and passed exam about government regulation for cybersecurity and cyber attacks.
+- Used cryptography to understand how it works and created certificates for sites, for HTTPs protocol.
+- Modeled threat documents for companies after searching for vulnerabilities.
+- Prevented bruteforce attacks.
+- Studied IPv4/IPv6, TCP/UDP, BGP, DNS, and demonstrated OSI model work.
+- Built VPN models for traffic analysis.
+- Performed reverse engineering on suspicious scripts and code analysis, based on C.
+- Practiced “OWASP Top Ten” and “OWASP Mobile” using OWASP Juice Shop & OWASP Web Goat (SQLi).
+- Worked with Pipeline as DevSecOps/AppSec, searching for vulnerabilities in code of ‘finished’ Docker containers.
+
+**Nvidia** (Israel)  
+**DevOps, Python Developer**  
+*2021-2022*  
+- Project administration using Jenkins with code analysis.
+- Developed and deployed Python scripts to Jenkins and fixed vulnerabilities.
+- Developed Bash scripts for Jenkins server container.
+- Configured VDS/VPS with software installation and CD/CI configuration, improving efficiency by 12%.
+
+**220Volt** (Remote)  
+**Web Developer, Cybersecurity Specialist**  
+*2020-2021*  
+- Protected the company’s site from hacker attacks.
+- Improved information security by over 125% using modern protection services.
+- Developed scripts for detecting suspicious activities on company servers.
+- Developed site using Python Django, HTML & CSS & JavaScript, and occasionally ReactJS.
+
+## Education (Certificates & Diplomas)
+- **Netology (Yandex)** - Cybersecurity Specialist
+- **Nvidia** - Cybersecurity
+- **Udemy** - Python, Django
+- **MASA** - Java, SQL, Git
+
+## Personal Qualities
+- Adaptability
+- Stress resilience
+- Effective communication
+- Critical thinking
+- Growth mindset
 
 ## My Professional Certificates:
 
