@@ -66,7 +66,7 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
   <tr>
     <td style="text-align: center;">
       <img src="./Certificates/15.%20Netology%20main.jpg" alt="Netology Main Certificate" style="width: 200px;">
-      <p>Netology Main Certificate</p>
+      <p>Netology</p>
     </td>
   </tr>
 </table>
