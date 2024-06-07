@@ -12,8 +12,8 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 **Digy-Safe** (Israel)  
 **Developer, Security auditor**  
 *2024-present*  
-- Worked with Docker containers
-- Builded NAT routing system on servers.
+- Worked with Docker containers.
+- Built NAT routing system on servers.
 - Developed Python-Django projects.
 - Automated server-side scripts.
 - Conducted pentesting (blackbox).
@@ -60,7 +60,22 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 - Critical thinking
 - Growth mindset
 
-## My Professional Certificates:
+## Main Certificates:
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="./Certificates/15.%20Netology%20main.jpg" alt="Netology Main Certificate" style="width: 200px;">
+      <p>Netology Main Certificate</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="./Certificates/14.%20Finished%20netology%20course.jpg" alt="Finished Netology Course" style="width: 200px;">
+      <p>Finished Netology<br>Course</p>
+    </td>
+  </tr>
+</table>
+
+## Other Certificates:
 
 <table>
   <tr>
@@ -111,7 +126,7 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
       <p>Information Security<br>at NVIDIA<br>certificate</p>
     </td>
     <td style="text-align: center;">
-      <img src="./Certificates/3.%20Cybersecurity%20and%20Data%20Privacy%20at%20NVIDIA%20certficate.png" alt="Cybersecurity and Data Privacy at NVIDIA certficate" style="width: 200px;">
+      <img src="./Certificates/3.%20Cybersecurity%20and%20Data%20Privacy%20at%20NVIDIA%20certficate.png" alt="Cybersecurity and Data Privacy at NVIDIA certificate" style="width: 200px;">
       <p>Cybersecurity and Data<br>Privacy at NVIDIA<br>certificate</p>
     </td>
     <td style="text-align: center;">
