@@ -68,10 +68,6 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
       <img src="./Certificates/15.%20Netology%20main.jpg" alt="Netology Main Certificate" style="width: 200px;">
       <p>Netology Main Certificate</p>
     </td>
-    <td style="text-align: center;">
-      <img src="./Certificates/14.%20Finished%20netology%20course.jpg" alt="Finished Netology Course" style="width: 200px;">
-      <p>Finished Netology<br>Course</p>
-    </td>
   </tr>
 </table>
 
@@ -79,6 +75,10 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 
 <table>
   <tr>
+    <td style="text-align: center;">
+      <img src="./Certificates/14.%20Finished%20netology%20course.jpg" alt="Finished Netology Course" style="width: 200px;">
+      <p>Finished Netology<br>Course</p>
+    </td>
     <td style="text-align: center;">
       <img src="./Certificates/13.%20Responding%20to%20information%20security%20incidents%20and%20proactive%20threat%20detection.png" alt="Responding to information security incidents and proactive threat detection" style="width: 200px;">
       <p>Responding to information<br>security incidents<br>and proactive threat<br>detection</p>
