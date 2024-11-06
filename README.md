@@ -74,11 +74,11 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="./Certificates/4. Netology CPP/1. Starting of base.pdf" alt="Netology CPP Starting Base" style="width: 200px;">
+      <img src="./Certificates/4. Netology CPP/1. Starting of base.png" alt="Netology CPP Starting Base" style="width: 200px;">
       <p>Starting of Base</p>
     </td>
     <td style="text-align: center;">
-      <img src="./Certificates/4. Netology CPP/2. Basic programming.pdf" alt="Netology CPP Basic Programming" style="width: 200px;">
+      <img src="./Certificates/4. Netology CPP/2. Basic programming.png" alt="Netology CPP Basic Programming" style="width: 200px;">
       <p>Basic Programming</p>
     </td>
   </tr>
