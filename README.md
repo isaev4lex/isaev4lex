@@ -1,22 +1,25 @@
 # Alex Isaev
 
 **Engineer Sec-Developer**  
-Israel | [LinkedIn](#) | isaev4lex@proton.me
+Israel | [LinkedIn](https://www.linkedin.com/in/isaev4lex) | isaev4lex@proton.me
 
 ## Skills
-Python | Django Framework | C/C++ | BASH | Java | HTML & CSS & JavaScript | Git | Linux | SQL | CD/CI |  
+AI | Python | Django Framework | C/C++ | BASH |Java |HTML&CSS&JavaScript | Git | Linux | SQL | CD/CI | 
 Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | Veracrypt | HashCat
 
 ## Work Experience
 
-**Digy-Safe** (Israel)  
-**Developer, Security Auditor**  
+**NextGen Solutions** (Israel)  
+**Software Developer / Cybersecurity Specialist**  
 *2024-present*  
-- Worked with Docker containers.
-- Built NAT routing system on servers.
-- Developed Python-Django projects.
-- Automated server-side scripts.
-- Conducted pentesting (blackbox).
+- Developed a massive Django project with AI analysis of parsed data. Also created an API for managing docker-containers on the server ( in the same project ).
+- Built NAT routing system on company’s servers.
+- BlackBox penetration testing for the company's services.
+- Developed an AI tool for photo analysis.
+- Android emulator’s automatization scripts.
+- Developed BackEnd part of GUI application that works with MongoDB.
+- Built a VPN bridge for the company's employees (OpenVPN based).
+- AI -> server integration.
 
 **Yandex** (Remote)  
 **Student (Cybersecurity)**  
