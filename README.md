@@ -84,6 +84,10 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
       <img src="./Certificates/4. Netology CPP/2. Basic programming.png" alt="Netology CPP Basic Programming" style="width: 200px;">
       <p>Basic Programming</p>
     </td>
+    <td style="text-align: center;">
+      <img src="./Certificates/4. Netology CPP/3. Algorithms.png" alt="Algorithms and Data Structures" style="width: 200px;">
+      <p>Algorithms and Data Structures</p>
+    </td>
   </tr>
 </table>
 
