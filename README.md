@@ -89,6 +89,12 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
       <p>Algorithms and Data Structures</p>
     </td>
   </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="./Certificates/4. Netology CPP/4. Advanced programming.png" alt="Advanced programming" style="width: 200px;">
+      <p>Advanced programming</p>
+    </td>
+  </tr>
 </table>
 
 ## Netology Cybersecurity course:
