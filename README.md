@@ -9,7 +9,8 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 
 ## Education (Certificates & Diplomas)
 - **Netology (Yandex)** - Cybersecurity Specialist
-- **Nvidia** - Cybersecurity
+- **Netology (Yandex)** - C++ Developer
+- **Nvidia** - Information Security
 - **Udemy** - Python, Django
 - **MASA** - Java, SQL, Git
 
@@ -25,7 +26,7 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
   <tr>
     <td style="text-align: center;">
       <img src="./Certificates/0. Main certs/1. Netology main.jpg" alt="Netology Main Certificate" style="width: 200px;">
-      <p>Netology</p>
+      <p>Cybersecurity certificate from Netology</p>
     </td>
   </tr>
 </table>
