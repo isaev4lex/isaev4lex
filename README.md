@@ -31,7 +31,7 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
     </td>
     <td style="text-align: center;">
       <img src="./Certificates/0. Main certs/2. IPC_cyber.jpg" alt="IPC Cybersec Cert", style="width:400px">
-      <p>Cybersecurity certificate from Netology</p>
+      <p>Cybersecurity certificate from Israel Professional College</p>
     </td>
   </tr>
 </table>
