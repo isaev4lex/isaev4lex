@@ -30,7 +30,7 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
       <p>Cybersecurity certificate from Netology</p>
     </td>
     <td style="text-align: center;">
-      <img src="./Certificates/0. Main certs/2. IPC_cyber.jpg" alt="IPC Cybersec Cert", style="width:200px">
+      <img src="./Certificates/0. Main certs/2. IPC_cyber.jpg" alt="IPC Cybersec Cert", style="width:400px">
       <p>Cybersecurity certificate from Netology</p>
     </td>
   </tr>
@@ -57,11 +57,9 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
       <img src="./Certificates/3. Netology CPP/4. Advanced Programming in C++.png" alt="Advanced programming in C++" style="width: 200px;">
       <p>Advanced programming</p>
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center;">
       <img src="./Certificates/3. Netology CPP/5. Working with Databases in C++.png" alt="Working with Databases in C++" style="width: 200px;">
-      <p>Advanced programming</p>
+      <p>Working with Databases in C++</p>
     </td>
   </tr>
 </table>
