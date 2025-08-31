@@ -26,8 +26,8 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="./Certificates/0. Main certs/1. Netology_cyber.jpg" alt="Netology Cybersec Cert", style="width:200px">
-      <p>Cybersecurity certificate from Netology</p>
+      <img src="./Certificates/0. Main certs/3. IPC_AI.jpg" alt="IPC AI Cert", style="width:400px">
+      <p>Artificial Intelligence certificate from Israel Professional College</p>
     </td>
     <td style="text-align: center;">
       <img src="./Certificates/0. Main certs/2. IPC_cyber.jpg" alt="IPC Cybersec Cert", style="width:400px">
@@ -36,8 +36,8 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="./Certificates/0. Main certs/3. IPC_AI.jpg" alt="IPC AI Cert", style="width:400px">
-      <p>Artificial Intelligence certificate from Israel Professional College</p>
+      <img src="./Certificates/0. Main certs/1. Netology_cyber.jpg" alt="Netology Cybersec Cert", style="width:200px">
+      <p>Cybersecurity certificate from Netology</p>
     </td>
   </tr>
 </table>
