@@ -33,6 +33,8 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
       <img src="./Certificates/0. Main certs/2. IPC_cyber.jpg" alt="IPC Cybersec Cert", style="width:400px">
       <p>Cybersecurity certificate from Israel Professional College</p>
     </td>
+  </tr>
+  <tr>
     <td style="text-align: center;">
       <img src="./Certificates/0. Main certs/3. IPC_AI.jpg" alt="IPC AI Cert", style="width:400px">
       <p>Artificial Intelligence certificate from Israel Professional College</p>
@@ -69,6 +71,8 @@ Wireshark | BurpSuite | MetaSploit Framework | Nmap | John The Ripper | Hydra | 
       <img src="./Certificates/3. Netology CPP/6. Multithreaded and Asynchronous Programming.png" alt="Multithreaded and Asynchronous Programming" style="width: 200px;">
       <p>Multithreaded and Asynchronous Programming</p>
     </td>
+  </tr>
+  <tr>
     <td style="text-align: center;">
       <img src="./Certificates/3. Netology CPP/7. Design Patterns in C++.png" alt="Design Patterns in C++" style="width: 200px;">
       <p>Design Patterns in C++</p>
