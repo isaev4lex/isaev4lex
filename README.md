@@ -1,10 +1,3 @@
-## Personal Qualities
-- Adaptability
-- Stress resilience
-- Effective communication
-- Critical thinking
-- Growth mindset
-
 ## Main Certificates:
 <table>
   <tr>
