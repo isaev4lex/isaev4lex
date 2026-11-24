@@ -14,7 +14,6 @@ I build systems that run without supervision: a brief in, a production deploymen
 | [tamrur](https://github.com/isaev4lex/tamrur) | Offline iPhone app for the Israeli driving theory exam (SwiftUI, Swift 6), built from open government data by a tested Python pipeline that identifies road signs with perceptual hashing and OCR. |
 | [blinkdates-case-study](https://github.com/isaev4lex/blinkdates-case-study) | Case study of my creator platform, co-owned and closed source: per-minute WebRTC call billing on a signed, append-only ledger, and a media pipeline built for one server. |
 | [studio-platform-case-study](https://github.com/isaev4lex/studio-platform-case-study) | Case study of a freelance platform for a yoga school: Hebrew right-to-left site, a CMS run from a phone, signed private video, live classes from a browser with no media server. |
-| [devsecops-lab](https://github.com/isaev4lex/devsecops-lab) | Container supply-chain pipeline: Trivy scan of the exact image bytes, Syft SBOM, a gate with expiring waivers, verified publish, SARIF in code scanning. |
 | [encrypt-tool](https://github.com/isaev4lex/encrypt-tool) | C++17 file encryption CLI: scrypt and chunked AES-256-GCM, atomic writes, migration from the old format, tested under sanitizers on Linux and macOS. |
 
 ### Why most of my code is not here
